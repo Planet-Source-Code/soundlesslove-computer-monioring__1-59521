@@ -1,0 +1,236 @@
+
+[InstallShield Wizard]
+iDate=0
+iTime=0
+Flag=f6000000
+ISX.EXE Size=657920
+ISX.EXE Date=11:03:16AM  11/14/1998
+ISX.EXE Ver=2.1.1.3
+SETUP.EXE Size=45312
+SETUP.EXE Date=3:21:02PM  10/1/1998
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=70547
+SETUP.INS Date=4:49:22PM  11/12/1998
+SETUP.INS Ver=Not available
+_INST16.EX_ Size=282766
+_INST16.EX_ Date=3:20:56PM  10/1/1998
+_INST16.EX_ Ver=Not available
+_INST32I.EX_ Size=320411
+_INST32I.EX_ Date=3:20:56PM  10/1/1998
+_INST32I.EX_ Ver=Not available
+ISDEPEND.INI Size=320411
+ISDEPEND.INI Date=3:20:56PM  10/1/1998
+ISDEPEND.INI Ver=Not available
+SWDEPEND.INI Size=320411
+SWDEPEND.INI Date=3:20:56PM  10/1/1998
+SWDEPEND.INI Ver=Not available
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=3:21:00PM  10/1/1998
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=3:21:02PM  10/1/1998
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=3:21:00PM  10/1/1998
+PACKLIST.EXE Ver=3.00.060
+Version=2.11
+DevTool=for Visual Basic 6.0
+Platform=Win32
+DisksBuilt=1
+DisksDir=FINAL\Custom-5000KB\
+TabsVisit=111111111000011111101
+LangNum=451
+LangDir=LANG\ENG\
+
+[VisualDesign]
+AppName=Spy
+AppExe=[Program Files]\spy.exe
+AppExeFile=C:\WINDOWS\Desktop\Final Project\spy.exe
+Version=1.0.0
+Company=No Mercy
+Title=Spy
+TitleType=1
+BackgrndBmp=
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=10
+Uninstall=1
+Silent=1
+SmsMode=1
+
+[Types]
+Types=1
+Type1Components=1
+Type1Name=Complete
+Type1ComponentList=1 
+
+[Components]
+Components=1
+Component1Groups=2
+Component1Name=Application Files
+Component1Description=Application files needed to run the application
+Component1GroupList=1 2 
+
+[Groups]
+Groups=2
+Group1Size=206833
+Group1Files=2
+Group1Name=Program Files
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=C:\WINDOWS\Desktop\last updated on 12 march 2004 with confirmation\final\1.exe
+Group1File2=C:\WINDOWS\Desktop\last updated on 12 march 2004 with confirmation\final\spy.exe
+Group2Size=4051096
+Group2Files=8
+Group2Auto=2
+Group2ID=38802
+Group2Name=System Files - WinSysDir
+Group2Dir=<WINSYSDIR>
+Group2Update=-1
+Group2TargetOS=-1
+Group2File1=C:\WINDOWS\SYSTEM\MSVBVM60.DLL
+Group2File1Auto=2
+Group2File1Reg=1
+Group2File2=C:\WINDOWS\SYSTEM\STDOLE2.TLB
+Group2File2Auto=2
+Group2File2Reg=1
+Group2File3=C:\WINDOWS\SYSTEM\OLEAUT32.DLL
+Group2File3Auto=2
+Group2File3Reg=1
+Group2File4=C:\WINDOWS\SYSTEM\OLEPRO32.DLL
+Group2File4Auto=2
+Group2File4Reg=1
+Group2File5=C:\WINDOWS\SYSTEM\ASYCFILT.DLL
+Group2File5Auto=2
+Group2File6=C:\WINDOWS\SYSTEM\TABCTL32.OCX
+Group2File6Auto=220
+Group2File6Reg=1
+Group2File7=C:\PROGRAM FILES\INSTALLSHIELD\INSTALLSHIELD EXPRESS 2.11\redist\COMCAT.DLL
+Group2File7Auto=220
+Group2File7Reg=1
+Group2File8=C:\WINDOWS\SYSTEM\MSCOMCTL.OCX
+Group2File8Auto=237
+Group2File8Reg=1
+Group2Reg=1
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\No Mercy\
+SelectProgramFolderName=Spy
+WelcomeMessage=1
+WelcomeMessageFile=
+UserInformation=1
+SelectProgramFolder=1
+BeginFileTransfer=1
+ProgressBar=1
+Billboards=1
+BillboardsFile=C:\PROGRA~1\INSTAL~2\INSTAL~1.11\Redist\
+SetupComplete=1
+SetupCompleteExec=[Program Files]\spy.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Reg7Path=HKEY_LOCAL_MACHINE\
+Reg7Val1Type=0
+Reg7Val1Name=(Default)
+Reg7Val1Data=(value not set)
+Reg7Vals=1
+Reg8Path=HKEY_LOCAL_MACHINE\\Software
+Reg8Val1Type=0
+Reg8Val1Name=(Default)
+Reg8Val1Data=(value not set)
+Reg8Vals=1
+Reg9Path=HKEY_LOCAL_MACHINE\\Software\Microsoft
+Reg9Val1Type=0
+Reg9Val1Name=(Default)
+Reg9Val1Data=(value not set)
+Reg9Vals=1
+Reg10Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows
+Reg10Val1Type=0
+Reg10Val1Name=(Default)
+Reg10Val1Data=(value not set)
+Reg10Vals=1
+Reg11Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows\CurrentVersion
+Reg11Val1Type=0
+Reg11Val1Name=(Default)
+Reg11Val1Data=(value not set)
+Reg11Vals=1
+Reg12Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows\CurrentVersion\RunServices
+Reg12Val1Type=0
+Reg12Val1Name=(Default)
+Reg12Val1Data=(value not set)
+Reg12Val2Type=0
+Reg12Val2Name=Sam
+Reg12Val2Data=C:\Program Files\No Mercy\spy.exe
+Reg12Vals=2
+Regs=12
+
+[Registry]
+Reg1Path=HKEY_LOCAL_MACHINE\
+Reg2Path=HKEY_LOCAL_MACHINE\\Software
+Reg3Path=HKEY_LOCAL_MACHINE\\Software\Microsoft
+Reg4Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows
+Reg5Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows\CurrentVersion
+Reg6Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows\CurrentVersion\RunServices
+Reg7Path=HKEY_LOCAL_MACHINE\\Software\Microsoft\Windows\CurrentVersion\RunServices
+Reg7ValName=Sam
+Reg7ValType=0
+Reg7ValData=C:\Program Files\No Mercy\spy.exe
+Regs=7
+
+[Icons]
+Icons=1
+Icon1Param=
+Icon1Cmd=[Program Files]\spy.exe
+Icon1Description=spy
+Icon1WorkingDir=[Program Files]
+Icon1IconFile=
+Icon1RealFile=C:\WINDOWS\Desktop\Final Project\spy.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=Path
+DestinationPath=c:\WINDOWS\Desktop\1\
+DestinationPathOneFile=
+Password=
