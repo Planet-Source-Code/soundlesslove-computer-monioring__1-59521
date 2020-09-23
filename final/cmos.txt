@@ -1,0 +1,13 @@
+Instructions For clearing the CMOS password
+
+1.Go to startMenu->run
+2.Type Debug and Enter 
+3.Type following statements on the prompt one after another:
+  
+ o 70 ee
+ o 71 ff
+ q
+
+4.your CMOS password is cleared.
+
+
